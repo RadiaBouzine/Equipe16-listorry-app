@@ -1,4 +1,5 @@
 # Listorry - Gestionnaire de tâches
+### 👥 Collaboratrice : Kaoutar Elfathi
 
 ## Description
 Application de gestion de tâches avec catégories (quotidien/hebdo/mensuel)

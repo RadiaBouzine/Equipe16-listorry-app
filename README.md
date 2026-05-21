@@ -1,5 +1,8 @@
 # Listorry - Gestionnaire de tâches
-### 👥 Collaborateur : amgharoumaima
+
+### 👥 Collaboratrice : Kaoutar Elfathi
+### 👥 Collaboratrice : amgharoumaima
+### 👥 Collaboratrice : ichraq16
 
 ## Description
 Application de gestion de tâches avec catégories (quotidien/hebdo/mensuel)
@@ -29,5 +32,3 @@ npm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
-
-### 👥 Collaborateur : ichraq16

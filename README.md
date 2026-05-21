@@ -7,6 +7,11 @@
 ## Description
 Application de gestion de tâches avec catégories (quotidien/hebdo/mensuel)
 
+## Membres de l'équipe
+- Kaoutar Elfathi - Chef de projet
+- Radia BOUZINE - Architecte Logiciel
+- Oumaima AMGHAR - Développeur / Testeur
+- Ichraq OUDKI - Développeur / Testeur
 ## Technologies
 - Backend: Node.js, Express, MySQL
 - Frontend: React

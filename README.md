@@ -32,3 +32,6 @@ Email: test@test.com
 Mot de passe: test123
 
 ## Livrables antérieurs
+- [Livrable_1 : FICHE_PROJET](docs/FICHE_PROJETS6.pdf)
+- [Livrable_2 : WBS, Gantt et estimation COCOMO](docs/GestionDesTaches_Equipe16.pdf)
+- [Livrable_3 : Backlog Scrum et sprints](docs/Livrable_3_Equipe16-1.pdf)

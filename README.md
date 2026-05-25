@@ -1,9 +1,5 @@
 # Listorry - Gestionnaire de tâches
 
-### 👥 Collaboratrice : Kaoutar Elfathi
-### 👥 Collaboratrice : Oumaima Amghar
-### 👥 Collaboratrice : Ichraq Oudki
-
 ## Description
 Application de gestion de tâches avec catégories (quotidien/hebdo/mensuel)
 
@@ -12,6 +8,7 @@ Application de gestion de tâches avec catégories (quotidien/hebdo/mensuel)
 - Radia BOUZINE - Architecte Logiciel
 - Oumaima AMGHAR - Développeur / Testeur
 - Ichraq OUDKI - Développeur / Testeur
+  
 ## Technologies
 - Backend: Node.js, Express, MySQL
 - Frontend: React
@@ -21,19 +18,14 @@ Application de gestion de tâches avec catégories (quotidien/hebdo/mensuel)
 ```bash
 docker-compose up
 
-### Commit 3 – .gitignore enrichi
+## Instructions de lancement
+- `docker-compose up`
 
-```bash
-cat >> .gitignore << 'EOF'
+## URL de déploiement
+https://github.com/RadiaBouzine/listorry-app
 
-# Logs
-*.log
-npm-debug.log*
+## Identifiants de test
+Email: test@test.com
+Mot de passe: test123
 
-# Environment
-.env.local
-.env.production
-
-# OS
-.DS_Store
-Thumbs.db
+## Livrables antérieurs

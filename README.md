@@ -20,6 +20,9 @@ docker-compose up
 
 ## Instructions de lancement
 - `docker-compose up`
+-  Frontend : http://localhost:80
+-  Backend : http://localhost:5000
+-  MySQL : port 3307
 
 ## URL de déploiement
 https://github.com/RadiaBouzine/listorry-app

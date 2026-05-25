@@ -17,6 +17,7 @@ Application de gestion de tâches avec catégories (quotidien/hebdo/mensuel)
 ## Installation
 ```bash
 docker-compose up
+Ouvrir: http://localhost:8080
 
 ## Instructions de lancement
 - `docker-compose up`

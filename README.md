@@ -4,8 +4,8 @@
 Application de gestion de tâches avec catégories (quotidien/hebdo/mensuel)
 
 ## Membres de l'équipe
-- Kaoutar Elfathi - Chef de projet
-- Radia BOUZINE - Architecte Logiciel
+- Kaoutar Elfathi - Chef de projet (Product Owner)
+- Radia BOUZINE - Architecte Logiciel (Scrum Master)
 - Oumaima AMGHAR - Développeur / Testeur
 - Ichraq OUDKI - Développeur / Testeur
   

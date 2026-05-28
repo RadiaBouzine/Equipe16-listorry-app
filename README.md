@@ -29,8 +29,8 @@ Ouvrir: http://localhost:8080
 https://github.com/RadiaBouzine/listorry-app
 
 ## Identifiants de test
-Email: test@test.com
-Mot de passe: test123
+Email: demo@gmail.com
+Mot de passe: qwertyuiop
 
 ## Livrables antérieurs
 - [Livrable_1 : FICHE_PROJET](docs/FICHE_PROJETS6.pdf)

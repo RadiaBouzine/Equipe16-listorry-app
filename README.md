@@ -26,7 +26,7 @@ Ouvrir: http://localhost:8080
 -  MySQL : port 3307
 
 ## URL de déploiement
-https://github.com/RadiaBouzine/listorry-app
+https://github.com/RadiaBouzine/Equipe16-listorry-app
 
 ## Identifiants de test
 Email: demo@gmail.com
